@@ -55,7 +55,7 @@
 
 // P A R T 4
 // Authentication  ::
-// dependency:  yarn add bcryptjs
+// dependency:  npm install bcryptjs
 // create an auth folder
       // auth router ::  
          // /api/register  :: hash password 
