@@ -15,7 +15,7 @@
 
 // P A R T 2 : Setting up Database Schema
 
-// Dependencies : npm add knex sqlite3
+// DEPENDENCIES : npm add knex sqlite3
       // to install globally: npm install -g knex
       // you can also run npx knex
 
@@ -23,9 +23,12 @@
       // modify knex file with appropriate file paths ...
       // + migrations + seeds + pool - https://github.com/jasheloper/node-db-challenge/blob/jashele-tillman/knexfile.js (sample)
 
-// Migrations 
-   // knex migrate:make create-users-table 
+// MIGRATIONS 
+// knex migrate:make create-users-table 
       // add tables 
+// knex migrate:latest ...to run migration files
+
+
 
 
 // P A R T 3
