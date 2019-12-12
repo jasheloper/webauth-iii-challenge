@@ -30,8 +30,9 @@
 
 
 
-
 // P A R T 3
+// Create API endpoints - POST, GET 
+// users router + users model + dbConfig file 
 
 // P A R T 4
 
