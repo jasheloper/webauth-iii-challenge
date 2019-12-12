@@ -1,4 +1,4 @@
-# Authentication using JSON Web Tokens (JWTs) - Jashele Tillman 
+# Authentication using JSON Web Tokens (JWTs) - Jashele Tillman 👋
 
 ## Topics
 
