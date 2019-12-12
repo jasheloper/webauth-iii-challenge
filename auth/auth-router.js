@@ -61,3 +61,5 @@ router.post("/register", (req, res) => {
 
   return token;
 }
+
+module.exports = router;
